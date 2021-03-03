@@ -1,0 +1,67 @@
+body{
+    background-color: lightblue;
+}
+header{
+    
+    text-align: center;
+    
+}
+footer{
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+article.X{
+    background-color: white;
+    color: blue;
+}
+article.formulario{
+    background-color: salmon;
+    float: left;
+    
+}
+span.nombre{
+    color: red;
+}
+a.CV{
+    color: orange;
+    
+}
+a.ciudadA{
+    position: relative;
+    left: 400px;
+}
+a.ciudadC{
+    position: relative;
+    left: 1000px;
+}
+p.uno{
+    background-color: darkred;
+   
+
+}
+p.dos{
+    text-align: center;
+    background-color: orange;
+}
+p.tres{
+    background-color: pink;
+}
+p.texto{
+    background-color: blue;
+    color: white;
+}
+img.alicante{
+    height: 120px;
+    width: 180px;
+    
+    
+}
+img.valencia{
+    height: 120px;
+    width: 180px;
+}
+img.castellon{
+    height: 120px;
+    width: 180px;
+}
